@@ -7,6 +7,8 @@ My name is V Srijan Reddy. I am an RL enthusiast and a die hard JS/TS fan.
 - 🤔 I’m looking for help with window managers on linux.
 - 📫 How to reach me: srijanreddy98@gmail.com
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=srijanreddy98&show_icons=true&count_private=true?theme=tokyonight)
+
 <!--
 **srijanreddy98/srijanreddy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
