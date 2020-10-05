@@ -5,7 +5,7 @@ My name is V Srijan Reddy. I am an RL enthusiast and a die hard JS/TS fan.
 - 🔭 I’m currently working on sample efficient RL and an awesome free educational website called Oppia (https://oppia.org).
 - 👯 I’m looking to collaborate on a project that will make a chromium based window manager for linux.
 - 🤔 I’m looking for help with window managers on linux.
-- 📫 How to reach me: srijanreddy98@gmail.com
+- 📫 How to reach me: srijan@srijanreddy.com
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=srijanreddy98&show_icons=true&count_private=true?theme=tokyonight)
 
